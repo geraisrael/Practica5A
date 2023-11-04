@@ -9,10 +9,6 @@ package gerardo.gonzalez.uabc.mastermind;
  * @author israe
  */
 import java.util.Scanner;
-/**
- *
- * @author 52686
- */
 public class Mastermind {
 
     public static void main(String[] args) {

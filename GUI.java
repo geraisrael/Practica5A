@@ -20,7 +20,7 @@ public class GUI {
         yPos = 550;
         yPos2 = 560;
     }
-    // colocarCS
+    
     public void colocarCombinacionSecreta(String CS)
     {
         String[] dividir = CS.split(" ");
@@ -62,7 +62,7 @@ public class GUI {
             xPosition += 40;
         }
     }
-    //colocarCU
+    
     public void colocarCombinacionIngresada(String CI)
     {
         String[] dividir = CI.split(" ");
@@ -128,7 +128,7 @@ public class GUI {
         }
         yPos2 -= 40;
     }
-    //colocarCD
+    
     public void colocarColoresDisponibles()
     {
         int xPosition = 400;
